@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="1426" name="IR_Black" modified="2011-04-26 00:46:40" author="Benjamin Wilson">
+    <searchResultIndication color="#07281C" />
+    <filteredSearchResultIndication color="#616161" />
+    <occurrenceIndication color="#616161" />
+    <writeOccurrenceIndication color="#616161" />
+    <findScope color="#E0E2E4" />
+    <deletionIndication color="#E0E2E4" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <singleLineComment color="#7C7C7C" />
+    <multiLineComment color="#CCCCCC" />
+    <commentTaskTag color="#A57B61" />
+    <javadoc color="#CCCCCC" />
+    <javadocLink color="#CCCCCC" />
+    <javadocTag color="#CCCCCC" />
+    <javadocKeyword color="#CCCCCC" />
+    <class color="#FFFFB6" />
+    <interface color="#FFFFB6" />
+    <method color="#F6F3E8" />
+    <methodDeclaration color="#FFD2A7" />
+    <bracket color="#CCCCCC" />
+    <number color="#FF73FD" />
+    <string color="#A8FF60" />
+    <operator color="#F6F3E8" />
+    <keyword color="#96CBFE" />
+    <annotation color="#A082BD" />
+    <staticMethod color="#E0E2E4" />
+    <localVariable color="#C6C5FE" bold="false" italic="false" />
+    <localVariableDeclaration color="#C6C5FE" bold="false" />
+    <field color="#678CB1" bold="false" />
+    <staticField color="#678CB1" />
+    <staticFinalField color="#E0E2E4" />
+    <deprecatedMember color="#E0E2E4" underline="false" strikethrough="true" />
+    <enum color="#E0E2E4" />
+    <inheritedMethod color="#E0E2E4" />
+    <abstractMethod color="#E0E2E4" />
+    <parameterVariable color="#E0E2E4" />
+    <typeArgument color="#E0E2E4" />
+    <typeParameter color="#E0E2E4" />
+    <constant color="#A082BD" />
+    <background color="#000000" />
+    <currentLine color="#151515" />
+    <foreground color="#C0C0C0" />
+    <lineNumber color="#3D3D3D" />
+    <selectionBackground color="#0033FF" />
+    <selectionForeground color="#C0C0C0" />
+</colorTheme>
