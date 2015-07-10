@@ -1,0 +1,46 @@
+--[[
+  Waypoint list for Unborn Valkyr (battle pet) spawn locations.
+
+  In order to use this, you need a mapping addon like TomTom:
+  http://www.curse.com/addons/wow/tomtom
+
+  Remember, you only have 255 characters per macro. What I did was to use
+  each of these blocks for a separate macro and then set up the macros in
+  order in a spare toolbar.
+--]]
+
+/way Borean Tundra 47 7 Unborn Val'kyr
+/way Borean Tundra 32 60 Unborn Val'kyr
+/way Borean Tundra 80 48 Unborn Val'kyr
+
+/way Sholazar Basin 36 19 Unborn Val'kyr
+/way Sholazar Basin 58 22 Unborn Val'kyr
+/way Sholazar Basin 44 69 Unborn Val'kyr
+
+/way Icecrown 43 33 Unborn Val'kyr
+/way Icecrown 73 64 Unborn Val'kyr
+/way Icecrown 47 86 Unborn Val'kyr
+
+/way Crystalsong 18 57 Unborn Val'kyr
+/way Crystalsong 43 44 Unborn Val'kyr
+/way Crystalsong 67 49 Unborn Val'kyr
+
+/way Dragonblight 26 54 Unborn Val'kyr
+/way Dragonblight 65 35 Unborn Val'kyr
+/way Dragonblight 82 66 Unborn Val'kyr
+
+/way Storm Peaks 29 50 Unborn Val'kyr
+/way Storm Peaks 42 78 Unborn Val'kyr
+/way Storm Peaks 65 41 Unborn Val'kyr
+
+/way Zul'Drak 24 63 Unborn Val'kyr
+/way Zul'Drak 57 39 Unborn Val'kyr
+/way Zul'Drak 75 22 Unborn Val'kyr
+
+/way Grizzly Hills 26 57 Unborn Val'kyr
+/way Grizzly Hills 62 18 Unborn Val'kyr
+/way Grizzly Hills 78 51 Unborn Val'kyr
+
+/way Howling Fjord 46 42 Unborn Val'kyr
+/way Howling Fjord 71 43 Unborn Val'kyr
+/way Howling Fjord 68 67 Unborn Val'kyr
